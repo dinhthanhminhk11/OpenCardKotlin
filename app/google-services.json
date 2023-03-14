@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564212294425",
+    "project_id": "opencardkotlin",
+    "storage_bucket": "opencardkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564212294425:android:5d48fb0e19c58f5bf31b88",
+        "android_client_info": {
+          "package_name": "com.example.opencardkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564212294425-fp1dbjnvbkaq54ac4hgj4m88316aj4e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL8JHGyyvEk_ZPhb1d5gwZcw-DdG595fA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564212294425-fp1dbjnvbkaq54ac4hgj4m88316aj4e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
